@@ -313,6 +313,8 @@ VietQR / MoMo / PayPal also work — see the [donate page](https://img2threejs.g
 
 Contributions are welcome — procedural material recipes, new gates, host coverage, and demos especially. See [CONTRIBUTING.md](CONTRIBUTING.md) and the [roadmap](ROADMAP.md) for where the project is headed.
 
+By the maker of [VXLVERSE](https://vxlverse.com), a 3D story-game maker in the browser.
+
 ## License
 
 Apache License 2.0. See [LICENSE](LICENSE).
